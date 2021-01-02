@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657049760401",
+    "project_id": "my-notes-firebase-60891",
+    "storage_bucket": "my-notes-firebase-60891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657049760401:android:24636160a3d46dff1bc530",
+        "android_client_info": {
+          "package_name": "gui.ceng.mu.edu.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657049760401-jp7j44k57i7hf78bai4ps8d30jfn4ado.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY4ZreMMciHXJ9E5SizTVWSW35Vb_AZEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657049760401-jp7j44k57i7hf78bai4ps8d30jfn4ado.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
